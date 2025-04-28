@@ -6,8 +6,9 @@
 - 由于使用爬虫脚本进行的自动转换，转换内容难免会一些问题(内容丢失或者不一致)，欢迎指出。（我会逐渐阅览并修正）。
 
 # Ⅱ 各子目录及代表性内容简介如下：
-## 1). my_metaprogram_lib
-主要介绍作者自研的 C++ 泛型元编程库 MiniMPL，包括类型特征、类型转换、函数对象、成员指针、统一容器接口、类型安全封装等。每篇文章聚焦一个元编程组件，配有详细用法和设计思路，适合深入理解 C++ 模板与泛型编程。
+## 1). my_metaprogram_lib ([github 源代码](https://github.com/shenxiaolong-code/MiniMPL))
+主要介绍作者自研的 C++ 泛型元编程库 MiniMPL，包括类型特征、类型转换、函数对象、成员指针、统一容器接口、类型安全封装等，也是本人最擅长的C++编程技能之一。  
+每篇文章聚焦一个元编程组件，配有详细用法和设计思路，适合深入理解 C++ 模板与泛型编程。
 
 - [0_my_MiniMPL_lib.md](my_metaprogram_lib/0_my_MiniMPL_lib.md)：MiniMPL 库总览与设计初衷
 - [1_enhance_typeTraits.md](my_metaprogram_lib/1_enhance_typeTraits.md)：类型特征 typeTraits 的实现与应用
@@ -27,7 +28,7 @@
 - [14_algorithm_based_on_object_size.md](my_metaprogram_lib/14_algorithm_based_on_object_size.md)：基于对象大小的算法
 - [15_callback_template_function.md](my_metaprogram_lib/15_callback_template_function.md)：回调模板函数/成员函数
 
-## 2). cpp_basic
+## 2). cpp_basic ([link](https://github.com/shenxiaolong-code/code_note/tree/main/cpp_basic))
 C++ 基础语法知识点的总结与实战分析。
 
 - [struct_alignment_rule.md](cpp_basic/struct_alignment_rule.md)：结构体对齐规则详解
@@ -39,7 +40,7 @@ C++ 基础语法知识点的总结与实战分析。
 - [built_small_quick_app.md](cpp_basic/built_small_quick_app.md)：快速构建小型应用
 - [gen_and_test_NaN_INFINITE.md](cpp_basic/gen_and_test_NaN_INFINITE.md)：NaN/INFINITE 数值的生成与测试
 
-## 3). discuss
+## 3). discuss ([link](https://github.com/shenxiaolong-code/code_note/tree/main/discuss))
 编译器相关问题、标准实现差异、实际开发中遇到的 bug 及其分析。
 
 - [gcc_compiler_limitation.md](discuss/gcc_compiler_limitation.md)：g++ 模板解析限制与标准讨论
