@@ -1,0 +1,44 @@
+# 文章分类汇总
+共 35 篇
+
+-  编译器bug ?](https://blog.csdn.net/Tonny0832/article/details/147120348) (2025-04-10)
+-  g++ 编译器模板解析近似缺陷的限制（C++标准议论）](https://blog.csdn.net/Tonny0832/article/details/141673171) (2024-08-29)
+-  利用编译期函数构建又快又小的程序](https://blog.csdn.net/Tonny0832/article/details/140869875) (2024-08-02)
+-  0) 原创的一套泛型源代码，用于改善STL的易用性，效率，功能增强。(拿出来和朋友们分享)](https://blog.csdn.net/Tonny0832/article/details/9093391) (2013-06-14)
+-  1)  获取类型特征typeTraits [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12382911) (2013-10-07)
+-  2) 转换类型typeConvert [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12383167) (2013-10-07)
+-  3) 一元/二元函数抽象function [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/19110443) (2014-02-12)
+-  4) 将多元函数转换为一元函数unaryFunctionConverter [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/19110831) (2014-02-12)
+-  5) 函数特征functionTraits [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/19112297) (2014-02-12)
+-  6) 创建一元函数/二元函数functionCreater [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/19112755) (2014-02-12)
+-  7) 占位符类型placeHolder [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/19111765) (2014-02-12)
+-  8) 多级结构数据成员指针memberPtr [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/19115703) (2014-02-12)
+-  9) 常用函数对象functionobject [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12379299) (2013-10-07)
+-  9) 泛型数学运算符函数mathOperator [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12383709) (2013-10-07)
+-  10) 泛型工厂方法创建实例ClassRegister [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12378845) (2013-10-07)
+-  11) 为STL容器和数组提供统一的接口DataSet [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12380427) (2013-10-07)
+-  12) 类型安全的任意类CAnyObject [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12378143) (2013-10-07)
+-  13) 参数适配ParamterWrapper [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12380643) (2013-10-07)
+-  14) 常用的遍历/(条件)查找/收集数据/(拷贝2比较优先)排序算法algorithm [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12381931) (2013-10-07)
+-  15). 回调模板函数/回调模板成员函数，回调参数个数和类型不固定，消除类似代码](https://blog.csdn.net/Tonny0832/article/details/41621173) (2014-11-30)
+
+
+
+
+-  这是vs2008编译器的一个bug么？](https://blog.csdn.net/Tonny0832/article/details/18367837) (2014-01-16)
+-  把一个非延缓评估的元函数转换为一个延缓评估的元函数(Lazy evaluation)](https://blog.csdn.net/Tonny0832/article/details/17119017) (2013-12-04)
+-  产生及判断NaN及INFINITE数值](https://blog.csdn.net/Tonny0832/article/details/17069537) (2013-12-02)
+-  胡思乱想：C程序员，C++程序员，java程序员都在追求什么](https://blog.csdn.net/Tonny0832/article/details/15937747) (2013-11-13)
+-  避免创建不必要的大对象(把大对象转换为小对象)](https://blog.csdn.net/Tonny0832/article/details/13001323) (2013-10-24)
+-  开始学习java](https://blog.csdn.net/Tonny0832/article/details/13000801) (2013-10-24)
+-  反转单向链表的实现](https://blog.csdn.net/Tonny0832/article/details/12704599) (2013-10-14)
+-  左移/右移指定位数字符串 (算法http://blog.csdn.net/v_JULY_v/article/details/6322882 的实现)](https://blog.csdn.net/Tonny0832/article/details/12611143) (2013-10-11)
+-  编译期assert函数](https://blog.csdn.net/Tonny0832/article/details/12560145) (2013-10-10)
+-  结构体对齐规则](https://blog.csdn.net/Tonny0832/article/details/12559877) (2013-10-10)
+-  命名空间及匿名命名空间](https://blog.csdn.net/Tonny0832/article/details/12558971) (2013-10-10)
+-  typeid及RTTI](https://blog.csdn.net/Tonny0832/article/details/12558827) (2013-10-10)
+-  内部链接(internal linkage)和外部链接(external linkage)](https://blog.csdn.net/Tonny0832/article/details/12558493) (2013-10-10)
+-  遍历所有时区的代码[windows]](https://blog.csdn.net/Tonny0832/article/details/12558081) (2013-10-10)
+-  简单地使用sym*函数族导出函数栈(Based on x86)](https://blog.csdn.net/Tonny0832/article/details/12422311) (2013-10-08)
+
+
