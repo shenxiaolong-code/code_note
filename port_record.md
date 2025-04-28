@@ -1,5 +1,4 @@
-# 文章分类汇总
-共 35 篇
+# 文章在中国大陆境内的[CSDN](https://blog.csdn.net/Tonny0832?type=blog)链接对照
 
 -  编译器bug ?](https://blog.csdn.net/Tonny0832/article/details/147120348) (2025-04-10)
 -  g++ 编译器模板解析近似缺陷的限制（C++标准议论）](https://blog.csdn.net/Tonny0832/article/details/141673171) (2024-08-29)
@@ -22,9 +21,6 @@
 -  14) 常用的遍历/(条件)查找/收集数据/(拷贝2比较优先)排序算法algorithm [原创,泛型编程,自由下载转载，需注明出处]](https://blog.csdn.net/Tonny0832/article/details/12381931) (2013-10-07)
 -  15). 回调模板函数/回调模板成员函数，回调参数个数和类型不固定，消除类似代码](https://blog.csdn.net/Tonny0832/article/details/41621173) (2014-11-30)
 
-
-
-
 -  这是vs2008编译器的一个bug么？](https://blog.csdn.net/Tonny0832/article/details/18367837) (2014-01-16)
 -  把一个非延缓评估的元函数转换为一个延缓评估的元函数(Lazy evaluation)](https://blog.csdn.net/Tonny0832/article/details/17119017) (2013-12-04)
 -  产生及判断NaN及INFINITE数值](https://blog.csdn.net/Tonny0832/article/details/17069537) (2013-12-02)
@@ -40,5 +36,3 @@
 -  内部链接(internal linkage)和外部链接(external linkage)](https://blog.csdn.net/Tonny0832/article/details/12558493) (2013-10-10)
 -  遍历所有时区的代码[windows]](https://blog.csdn.net/Tonny0832/article/details/12558081) (2013-10-10)
 -  简单地使用sym*函数族导出函数栈(Based on x86)](https://blog.csdn.net/Tonny0832/article/details/12422311) (2013-10-08)
-
-
