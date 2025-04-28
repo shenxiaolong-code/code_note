@@ -10,57 +10,43 @@
 主要介绍作者自研的 C++ 泛型元编程库 MiniMPL，包括类型特征、类型转换、函数对象、成员指针、统一容器接口、类型安全封装等，也是本人最擅长的C++编程技能之一。  
 每篇文章聚焦一个元编程组件，配有详细用法和设计思路，适合深入理解 C++ 模板与泛型编程。
 
-- [0_my_MiniMPL_lib.md](my_metaprogram_lib/0_my_MiniMPL_lib.md)：MiniMPL 库总览与设计初衷
-- [1_enhance_typeTraits.md](my_metaprogram_lib/1_enhance_typeTraits.md)：类型特征 typeTraits 的实现与应用
-- [2_typeConvert_function.md](my_metaprogram_lib/2_typeConvert_function.md)：类型转换 typeConvert 的通用方案
-- [3_pack_unary_binary_function.md](my_metaprogram_lib/3_pack_unary_binary_function.md)：一元/二元函数抽象
-- [4_unaryFunctionConverter.md](my_metaprogram_lib/4_unaryFunctionConverter.md)：多元函数转一元函数
-- [5_fetch_functionTraits.md](my_metaprogram_lib/5_fetch_functionTraits.md)：函数特征 functionTraits
-- [6_create_function_object.md](my_metaprogram_lib/6_create_function_object.md)：一元/二元函数对象创建
-- [7_placeHolder_type.md](my_metaprogram_lib/7_placeHolder_type.md)：占位符类型 placeHolder
-- [8_data_member_ptr.md](my_metaprogram_lib/8_data_member_ptr.md)：多级结构数据成员指针
-- [9_functionobject_MiniMPL.md](my_metaprogram_lib/9_functionobject_MiniMPL.md)：常用函数对象的泛型实现
-- [9_mathOperator_MiniMPL.md](my_metaprogram_lib/9_mathOperator_MiniMPL.md)：泛型数学运算符函数
-- [10_templated_ClassRegister.md](my_metaprogram_lib/10_templated_ClassRegister.md)：泛型工厂方法创建实例
-- [11_unified_container_interface.md](my_metaprogram_lib/11_unified_container_interface.md)：统一容器接口 DataSet
-- [12_CAnyObject.md](my_metaprogram_lib/12_CAnyObject.md)：类型安全的任意类封装
-- [13_delivery_parameter.md](my_metaprogram_lib/13_delivery_parameter.md)：参数适配 ParamterWrapper
-- [14_algorithm_based_on_object_size.md](my_metaprogram_lib/14_algorithm_based_on_object_size.md)：基于对象大小的算法
-- [15_callback_template_function.md](my_metaprogram_lib/15_callback_template_function.md)：回调模板函数/成员函数
+- [00_easy_use_stl_algorithm.md](01_my_metaprogram_lib/00_easy_use_stl_algorithm.md)：MiniMPL 库总览与设计初衷
+- [01_enhance_typeTraits.md](01_my_metaprogram_lib/01_enhance_typeTraits.md)：类型特征 typeTraits 的实现与应用
+- [02_typeConvert_function.md](01_my_metaprogram_lib/02_typeConvert_function.md)：类型转换 typeConvert 的通用方案
+- [03_pack_unary_binary_function.md](01_my_metaprogram_lib/03_pack_unary_binary_function.md)：一元/二元函数抽象
+- [04_unaryFunctionConverter.md](01_my_metaprogram_lib/04_unaryFunctionConverter.md)：多元函数转一元函数
+- [05_fetch_functionTraits.md](01_my_metaprogram_lib/05_fetch_functionTraits.md)：函数特征 functionTraits
+- [06_create_function_object.md](01_my_metaprogram_lib/06_create_function_object.md)：一元/二元函数对象创建
+- [07_placeHolder_type.md](01_my_metaprogram_lib/07_placeHolder_type.md)：占位符类型 placeHolder
+- [08_data_member_ptr.md](01_my_metaprogram_lib/08_data_member_ptr.md)：多级结构数据成员指针
+- [09_functionobject_MiniMPL.md](01_my_metaprogram_lib/09_functionobject_MiniMPL.md)：常用函数对象的泛型实现
+- [09_mathOperator_MiniMPL.md](01_my_metaprogram_lib/09_mathOperator_MiniMPL.md)：泛型数学运算符函数
+- [10_templated_ClassRegister.md](01_my_metaprogram_lib/10_templated_ClassRegister.md)：泛型工厂方法创建实例
+- [11_unified_container_interface.md](01_my_metaprogram_lib/11_unified_container_interface.md)：统一容器接口 DataSet
+- [12_CAnyObject.md](01_my_metaprogram_lib/12_CAnyObject.md)：类型安全的任意类封装
+- [13_delivery_parameter.md](01_my_metaprogram_lib/13_delivery_parameter.md)：参数适配 ParamterWrapper
+- [14_algorithm_based_on_object_size.md](01_my_metaprogram_lib/14_algorithm_based_on_object_size.md)：基于对象大小的算法
+- [15_callback_template_function.md](01_my_metaprogram_lib/15_callback_template_function.md)：回调模板函数/成员函数
 
-## 2). cpp_basic ([link](https://github.com/shenxiaolong-code/code_note/tree/main/cpp_basic))
+## 2). cpp_basic ([link](https://github.com/shenxiaolong-code/code_note/tree/main/02_cpp_basic))
 C++ 基础语法知识点的总结与实战分析。
 
-- [struct_alignment_rule.md](cpp_basic/struct_alignment_rule.md)：结构体对齐规则详解
-- [cpp_typeid_RTTI.md](cpp_basic/cpp_typeid_RTTI.md)：typeid 及 RTTI 机制
-- [internal_external_linkage.md](cpp_basic/internal_external_linkage.md)：内部/外部链接详解
-- [avoid_gen_large_objects.md](cpp_basic/avoid_gen_large_objects.md)：避免生成大对象的技巧
-- [namespace_internal.md](cpp_basic/namespace_internal.md)：命名空间与 internal 机制
-- [Lazy_unary_template_function.md](cpp_basic/Lazy_unary_template_function.md)：延缓求值的单参模板函数
-- [built_small_quick_app.md](cpp_basic/built_small_quick_app.md)：快速构建小型应用
-- [gen_and_test_NaN_INFINITE.md](cpp_basic/gen_and_test_NaN_INFINITE.md)：NaN/INFINITE 数值的生成与测试
+- [xxx.md](02_cpp_basic/xxx.md)
 
-## 3). discuss ([link](https://github.com/shenxiaolong-code/code_note/tree/main/discuss))
+## 3). discuss ([link](https://github.com/shenxiaolong-code/code_note/tree/main/03_discuss))
 编译器相关问题、标准实现差异、实际开发中遇到的 bug 及其分析。
 
-- [gcc_compiler_limitation.md](discuss/gcc_compiler_limitation.md)：g++ 模板解析限制与标准讨论
-- [compiler_template_bug.md](discuss/compiler_template_bug.md)：模板相关的编译器 bug
-- [vs2008_compiler_bug.md](discuss/vs2008_compiler_bug.md)：VS2008 编译器的一个 bug 分析
+- [xxx.md](03_discuss/xxx.md)
 
-## 4). general_feature
+## 4). general_feature ([link](https://github.com/shenxiaolong-code/code_note/tree/main/04_general_feature))
 日常编程中，可能会用到的一些常用功能。如果你需要这些功能，可以直接从这儿复制，避免再自己手工造轮子。
 
-- [reverse_single_linked_list.md](general_feature/reverse_single_linked_list.md)：单向链表反转算法
-- [dump_callstack_by_sym_APIs.md](general_feature/dump_callstack_by_sym_APIs.md)：Windows 下符号 API 导出调用栈
-- [compile_time_assert_function.md](general_feature/compile_time_assert_function.md)：编译期断言函数
-- [windows_use_timezone.md](general_feature/windows_use_timezone.md)：Windows 时区遍历代码
-- [left_right_shift_string.md](general_feature/left_right_shift_string.md)：字符串左移/右移算法
+- [xxx.md](04_general_feature/xxx.md)
 
-## 5). daily_record
+## 5). daily_record ([link](https://github.com/shenxiaolong-code/code_note/tree/main/05_daily_record))
 日常流水帐，作不得数，怡笑方家。
 
-- [coder_question.md](daily_record/coder_question.md)：C/C++/Java 程序员的追求
-- [study_java.md](daily_record/study_java.md)：Java 学习笔记
+- [xxx.md](05_daily_record/xxx.md)
 
 # Ⅲ 移植记录
 ## port_record.md
